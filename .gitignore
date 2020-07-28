@@ -1,1 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/Reinforcement-learning-with-tensorflow.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+contents/2_Q_Learning_maze/__pycache__/
+contents/3_Sarsa_maze/__pycache__/
+contents/4_Sarsa_lambda_maze/__pycache__/
+contents/5.1_Double_DQN/__pycache__/
